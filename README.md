@@ -5,6 +5,10 @@
 
 pip install ftputil
 
+Документация по нему тут:
+
+https://ftputil.sschwarzer.net/trac/wiki/RussianDocumentation
+
 Теперь вы можете запустить скрипт testftputil.py
 
 Большое количество адресов FTP серверов можно взять тут:
